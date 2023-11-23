@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html lang="es">
+
+<head>
+<link rel="stylesheet" href="css/styles.css">
+<meta charset="utf-8"
+<title mi pagina web ruben </title>
+</head>
+
+
+
+
+<body>
+
+<h1> una pagina de prueba 1</h1>
+<p>  un parrafo de texto  </p>
+<p1> estoy en cambios02</p1>
+
+</body>
+</html>
